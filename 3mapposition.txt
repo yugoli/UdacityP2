@@ -1,0 +1,4 @@
+Coordinates
+<bounds minlon="-86.48500" minlat="39.45400" maxlon="-85.74600" maxlat="40.13400" origin="http://www.openstreetmap.org/api/0.6"/>
+
+I chose Indianapolis because I went to high school and had my first job there. 

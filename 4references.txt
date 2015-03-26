@@ -1,0 +1,4 @@
+http://www.diveintopython.net/regular_expressions/phone_numbers.html
+http://www.tutorialspoint.com/python/python_reg_expressions.htm
+http://docs.mongodb.org/manual/reference/operator/query/exists/
+http://docs.mongodb.org/manual/reference/program/mongoimport/
